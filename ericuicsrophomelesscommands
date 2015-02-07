@@ -1,2 +1,3 @@
-var populationq;
-Var populationp;
+var populationq; 
+var populationp;
+var ncases;
