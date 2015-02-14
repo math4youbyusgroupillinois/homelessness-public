@@ -1,3 +1,7 @@
 var populationq; 
 var populationp;
 var ncases;
+var child;
+var parent;
+var time0;
+
